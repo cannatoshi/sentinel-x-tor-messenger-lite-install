@@ -1,4 +1,5 @@
 # Sentinel-X Server with Maximum Security via Tor Hidden Services v3
+(outdated: new Version 6.4.5 with "no Clearnet Option / SSH over Tor V3" on the Way)
 
 <p align="center">
   <img src="bg.png" alt="Vorschau" width="1920">
